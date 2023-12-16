@@ -21,7 +21,3 @@ npm install
 ```sh
 npm start
 ```
-
-##
-> [!IMPORTANT]
->Neste Projeto irei colocar em prática conteudos vistos duranmte a aula ate o dia 04/10/2023.
